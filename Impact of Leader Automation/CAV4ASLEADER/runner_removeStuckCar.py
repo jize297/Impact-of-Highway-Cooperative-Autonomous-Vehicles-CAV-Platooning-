@@ -26,7 +26,7 @@ SUMO_BINARY = 'sumo-gui' if USE_GUI else 'sumo'
 SUMO_CFG = 'M50_simulation.sumocfg'
 NET_FILE = 'M50network.net.xml.gz'
 SIMPLA_CFG = 'simpla.cfg.xml'
-END_TIME = 50400  # set simulation end time (seconds)
+END_TIME = 28800  # set simulation end time (seconds)
 
 # build launch command
 sumo_cmd = [

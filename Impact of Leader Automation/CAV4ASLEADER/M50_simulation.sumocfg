@@ -16,8 +16,8 @@
     </output>
 
     <time>
-        <begin value="46800"/> <!-- 13:00 -->
-        <end   value="50400"/> <!-- 14:00 -->
+        <begin value="25200"/> 
+        <end   value="28800"/> 
     </time>
 
 <!-- 	
